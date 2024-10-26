@@ -13,3 +13,8 @@ En la página para trabajar con los textos, estaré usando los elementos:
 ```
 * Nota: dentro del archivo index.html, en los elementos de h2 estaré usando lang="en" debido a que los subtítulos se encuentran en ingles.
 
+## Agregando imágenes
+Al momento de agregar las imágenes usaré el elemento:
+```sh
+<img src="direccion-de-imagen" alt="nombre de la imagen">
+```
