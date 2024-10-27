@@ -1,0 +1,23 @@
+
+
+img{
+    width: 40%;
+    height: auto;
+}
+.logo{
+    text-align: center;
+}
+.imagen-derecha{
+    width: 300px;
+    float: inline-end;
+    margin: 0 0 0 10px;
+}
+.imagen-izquierda{
+    width: 300px;
+    float: inline-start;
+    margin: 0 10px 0 0;
+}
+.ancho-total{
+    width: 100%;
+    height: auto;
+}
