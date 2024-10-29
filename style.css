@@ -1,4 +1,22 @@
-
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(192,83,150);
+}
+h1{
+    font-size: 40px;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 10px;
+}
+h2{
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 5px;
+}
+p{
+    font-size: 10px;
+    color: #3264a7;
+}
 
 img{
     width: 40%;
@@ -20,4 +38,5 @@ img{
 .ancho-total{
     width: 100%;
     height: auto;
+    margin-top: 5px;
 }
