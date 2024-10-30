@@ -1,6 +1,6 @@
 * Nombre: Matias Casiba
-* Link Github Repo:
-* Link Netlify:
+* Link Github Repo: https://github.com/MatiCasiba/d-hotels
+* Link Netlify: https://disney-hoteles.netlify.app/
 
 # Página de habitaciones
 
